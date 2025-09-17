@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on Interesting **NodeJs** projects
 
-- 🌱 I’m currently learning **Git and SQL**
-
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 💬 Ask me about **Backend Development**
