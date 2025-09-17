@@ -8,10 +8,10 @@
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 💬 Ask me about **Backend Development**
+  
+- 👯 I’m open to work and collaborations
 
 - 📫 How to reach me **qimoshi@gmail.com**
-
-- ⚡ Fun fact **i see and analyze a lot of football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
